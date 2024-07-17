@@ -9,11 +9,9 @@ parent: "[[Python]]"
 dg-publish: false
 share: true
 ---
-# [[Python]]
-
-## `enumerate(iterable, start=0)`
-
 Returns tuples while iterating through a list; the index of the item and the list item itself.
+
+**`enumerate(iterable, start=0)`**
 
 ```python
 languages = ['Python', 'Javascript', 'Swift']
